@@ -1,0 +1,2 @@
+PODS_UMENGMESSAGE_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/UMengMessage/UMessage_Sdk_All_1.1.0(idfa)/UMessage_Sdk_1.1.0/**"
+PODS_UMENGMESSAGE_OTHER_LDFLAGS = -l"UMessage_Sdk_1.1.0"

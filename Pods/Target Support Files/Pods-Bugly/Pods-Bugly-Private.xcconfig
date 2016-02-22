@@ -1,0 +1,8 @@
+#include "Pods-Bugly.xcconfig"
+CLANG_CXX_LANGUAGE_STANDARD = ${PODS_BUGLY_CLANG_CXX_LANGUAGE_STANDARD}
+CLANG_CXX_LIBRARY = ${PODS_BUGLY_CLANG_CXX_LIBRARY}
+FRAMEWORK_SEARCH_PATHS = ${PODS_BUGLY_FRAMEWORK_SEARCH_PATHS}
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/Bugly" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Bugly" "${PODS_ROOT}/Headers/Public/IQKeyboardManager" "${PODS_ROOT}/Headers/Public/RESideMenu" "${PODS_ROOT}/Headers/Public/UMengAnalytics" "${PODS_ROOT}/Headers/Public/UMengFeedback" "${PODS_ROOT}/Headers/Public/UMengMessage"
+OTHER_LDFLAGS = ${PODS_BUGLY_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}

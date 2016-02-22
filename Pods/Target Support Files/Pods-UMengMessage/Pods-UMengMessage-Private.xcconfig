@@ -1,0 +1,6 @@
+#include "Pods-UMengMessage.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/UMengMessage" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Bugly" "${PODS_ROOT}/Headers/Public/IQKeyboardManager" "${PODS_ROOT}/Headers/Public/RESideMenu" "${PODS_ROOT}/Headers/Public/UMengAnalytics" "${PODS_ROOT}/Headers/Public/UMengFeedback" "${PODS_ROOT}/Headers/Public/UMengMessage"
+LIBRARY_SEARCH_PATHS = ${PODS_UMENGMESSAGE_LIBRARY_SEARCH_PATHS}
+OTHER_LDFLAGS = ${PODS_UMENGMESSAGE_OTHER_LDFLAGS} -ObjC
+PODS_ROOT = ${SRCROOT}

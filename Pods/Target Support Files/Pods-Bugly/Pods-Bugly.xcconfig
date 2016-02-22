@@ -1,0 +1,4 @@
+PODS_BUGLY_CLANG_CXX_LANGUAGE_STANDARD = c++11
+PODS_BUGLY_CLANG_CXX_LIBRARY = libc++
+PODS_BUGLY_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Bugly"
+PODS_BUGLY_OTHER_LDFLAGS = -l"c++" -l"z" -framework "Bugly" -framework "SystemConfiguration"

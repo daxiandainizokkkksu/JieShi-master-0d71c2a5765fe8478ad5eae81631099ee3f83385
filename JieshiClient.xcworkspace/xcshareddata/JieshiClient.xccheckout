@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F36D7CE8-CD47-46DC-9400-5AFF51355316</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JieshiClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D</key>
+		<string>http://amy.fu@git.dayuteam.cn/r/ios/YDSHClient.git</string>
+		<key>E32CA1B82261979317B676AC6673E9DF5C870904</key>
+		<string>http://amy.fu@git.dayuteam.cn/r/ios/JieshiIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JieshiClient/JieshiClient.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D</key>
+		<string>../../../YDSHClient</string>
+		<key>E32CA1B82261979317B676AC6673E9DF5C870904</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://amy.fu@git.dayuteam.cn/r/ios/JieshiIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E32CA1B82261979317B676AC6673E9DF5C870904</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E32CA1B82261979317B676AC6673E9DF5C870904</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JieshiIOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YDSHClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>

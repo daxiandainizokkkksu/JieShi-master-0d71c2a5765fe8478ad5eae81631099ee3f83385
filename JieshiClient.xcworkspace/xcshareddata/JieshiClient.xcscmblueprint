@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E32CA1B82261979317B676AC6673E9DF5C870904",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D" : 0,
+    "E32CA1B82261979317B676AC6673E9DF5C870904" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F36D7CE8-CD47-46DC-9400-5AFF51355316",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D" : "YDSHClient",
+    "E32CA1B82261979317B676AC6673E9DF5C870904" : "JieshiIOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JieshiClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JieshiClient\/JieshiClient.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/amy.fu@git.dayuteam.cn\/r\/ios\/YDSHClient.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6AA3A4E2BA5D4D88E328A0F1C6E1D5DE517590D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/amy.fu@git.dayuteam.cn\/r\/ios\/JieshiIOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E32CA1B82261979317B676AC6673E9DF5C870904"
+    }
+  ]
+}

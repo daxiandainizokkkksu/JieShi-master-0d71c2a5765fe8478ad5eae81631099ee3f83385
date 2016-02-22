@@ -1,0 +1,10 @@
+CLANG_CXX_LANGUAGE_STANDARD = c++11
+CLANG_CXX_LIBRARY = libc++
+FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Bugly"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/Bugly" "${PODS_ROOT}/Headers/Public/IQKeyboardManager" "${PODS_ROOT}/Headers/Public/RESideMenu" "${PODS_ROOT}/Headers/Public/UMengAnalytics" "${PODS_ROOT}/Headers/Public/UMengFeedback" "${PODS_ROOT}/Headers/Public/UMengMessage"
+LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/UMengAnalytics/**" "$(PODS_ROOT)/UMengFeedback/**" "$(PODS_ROOT)/UMengMessage/UMessage_Sdk_All_1.1.0(idfa)/UMessage_Sdk_1.1.0/**"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/AFNetworking" -isystem "${PODS_ROOT}/Headers/Public/Bugly" -isystem "${PODS_ROOT}/Headers/Public/IQKeyboardManager" -isystem "${PODS_ROOT}/Headers/Public/RESideMenu" -isystem "${PODS_ROOT}/Headers/Public/UMengAnalytics" -isystem "${PODS_ROOT}/Headers/Public/UMengFeedback" -isystem "${PODS_ROOT}/Headers/Public/UMengMessage"
+OTHER_LDFLAGS = -ObjC -l"MobClickLibrary" -l"Pods-AFNetworking" -l"Pods-Bugly" -l"Pods-IQKeyboardManager" -l"Pods-RESideMenu" -l"Pods-UMengAnalytics" -l"Pods-UMengFeedback" -l"Pods-UMengMessage" -l"UMFeedback" -l"UMOpus" -l"UMessage_Sdk_1.1.0" -l"c++" -l"z" -framework "AVFoundation" -framework "Bugly" -framework "CoreGraphics" -framework "MobileCoreServices" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+PODS_ROOT = ${SRCROOT}/Pods
